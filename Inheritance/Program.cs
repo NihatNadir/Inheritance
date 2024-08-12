@@ -7,14 +7,7 @@ namespace Inheritance
     {
         public static void Main(string[] args)
         {
-            // BasePerson classından person1 nesnesi üretiyoruz.
-
-            /*
-            BasePerson person1 = new BasePerson();
-            person1.Name = "Ali";
-            person1.SurName = "Yalçın";
-            person1.PrintPerson();
-            */
+            
 
             // Student classından student1 nesnesi üretiyoruz.
 
